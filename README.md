@@ -1,2 +1,2 @@
 # Ptkyr.github.io
-Host ochem.html
+Currently hosting ochem.html, some notes about functional group nomenclature with models from [MolView](https://molview.org/)
