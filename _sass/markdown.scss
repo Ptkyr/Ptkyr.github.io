@@ -25,6 +25,11 @@
     font-family: $font-family-code;
 }
 
+.md pre,
+.md code {
+    background-color: $code-background;
+}
+
 .md h1,
 .md h2,
 .md h3,
