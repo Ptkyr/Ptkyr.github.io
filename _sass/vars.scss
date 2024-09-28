@@ -6,10 +6,10 @@
  *  1. colors
  ***********************************/
 
-$nuclear-green: #00d00a;
+$nuclear-green: #02e30d;
 $clear-blue: #0b4e9b;
 // safety yellow
-$safety-yellow: #e6ee02;
+$safety-yellow: #f6ff00;
 // fire engine red
 $fire-red: #5120ce;
 
@@ -18,16 +18,16 @@ $cyan: cyan;
 $blue: blue;
 // VGA magenta
 $purple: #AA00AA;
-$green: green;
+$green: rgb(0, 206, 0);
 $red: #ff0000;
 $orange: orange;
 $light-orange: yellow;
 
 // body colors
-$body-text-color: black;
-$background: white;
-$gray: hsl(0, 0%, 40%);
-$light-gray: hsl(0, 0%, 75%);
+$body-text-color: rgb(255, 255, 255);
+$background: rgb(24, 26, 27);
+$light-gray: hsl(0, 0%, 40%);
+$gray: hsl(0, 0%, 75%);
 
 // link type colors
 $link-color: $nuclear-green;
