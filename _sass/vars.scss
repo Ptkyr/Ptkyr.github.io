@@ -1,0 +1,65 @@
+/*
+    vars
+*/
+
+/***********************************
+ *  1. colors
+ ***********************************/
+
+$nuclear-green: #00d00a;
+$clear-blue: #0b4e9b;
+// safety yellow
+$safety-yellow: #e6ee02;
+// fire engine red
+$fire-red: #5120ce;
+
+// ansi VGA term colors
+$cyan: cyan;
+$blue: blue;
+// VGA magenta
+$purple: #AA00AA;
+$green: green;
+$red: #ff0000;
+$orange: orange;
+$light-orange: yellow;
+
+// body colors
+$body-text-color: black;
+$background: white;
+$gray: hsl(0, 0%, 40%);
+$light-gray: hsl(0, 0%, 75%);
+
+// link type colors
+$link-color: $nuclear-green;
+$dir-color: $nuclear-green;
+$file-color: $safety-yellow;
+$symlink-color: $purple;
+
+.color-nuclear-green {
+    color: $nuclear-green;
+}
+.color-clear-blue {
+    color: $clear-blue;
+}
+.color-vga-magenta { color: $purple; }
+.color-vga-red { color: $red; }
+
+h1, h2, h3, h4, h5 {
+    color: $green
+}
+
+/***********************************
+ *  2. fonts
+ ***********************************/
+
+$font-size-base: 12pt;
+$font-family-code: "Berkeley Mono", monospace, serif;
+$font-family: $font-family-code;
+
+/***********************************
+ *  3. dimensions
+ ***********************************/
+
+$lh: 1.5rem; // vertical rhythm
+$max-width: 80ch;
+$breakpoint-wide: $max-width + 12ch;

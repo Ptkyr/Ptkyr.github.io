@@ -1,0 +1,77 @@
+# Permalinks
+permalink: "/:title.html"
+
+# Setup
+title:            ptkyr.dev
+url:              https://ptkyr.dev
+baseurl:          /
+author: &default-author
+  name:           Eric Wang
+  url:            https://ptkyr.dev
+  email:          e224wang@uwaterloo.ca
+
+encoding: utf-8
+
+exclude:
+  - "website.sublime-project"
+  - "website.sublime-workspace"
+  - "*.log"
+  - "*.fdb_latexmk"
+  - "*.synctex.gz"
+  - "*.aux"
+  - "*.nix"
+  - ".bundle"
+  - ".direnv"
+  - "vendor"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: main
+  -
+    scope:
+      path: "notes"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "ptkyr"
+      author: *default_author
+
+# plugins: ["jekyll-paginate"]
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+# Navigation
+nav:
+  - name:           "code"
+    href:           "https://github.com/Ptkyr"
+    kind:           "dir"
+  - name:           "notes"
+    href:           "/notes"
+    kind:           "dir"
+  # - name:           "mail"
+  #   href:           "mailto://e224wang@uwaterloo.ca"
+  #   kind:           "exe"
+  - name:           "about.md"
+    href:           "/"
+    kind:           "file"
+  - name:           "credits.md"
+    href:           "/credits"
+    kind:           "file"
+  - name:           "résumé.pdf"
+    href:           "/resume.pdf"
+    kind:           "file"

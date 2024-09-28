@@ -1,31 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>functional groups</title>
-</head>
-<style>
-body {
-  color: rgb(0, 0, 0);
-}
-</style>
-<header style="font-family:'Tahoma'">
-  <h1>Functional Groups</h1>
-A very simple example is given for each, followed by a more complex one to highlight nomenclature and counting schemes
-</header>
-<body style="background-color:rgb(204, 204, 204);">
-<pre>
-<h style="font-family:'Tahoma'">
-<p style="font-family:'Tahoma'">
+---
+layout: post
+title: "Organic nomenclature"
+categories: school
+author: ptkyr
+---
 
-<h2>Nomenclature</h2>
-- Follows the general pattern [main][suffix]
-  - [suffix] is taken from the highest priority functional group
-  - [main] may be quite complicated, but can only consist of:
-    - Numbers
-    - Prefix names
+**The embeds on this page are very broken, and I don't care enough about html to fix them.**
 
+A very simple example is given for each, followed by a more complex one to highlight nomenclature and counting schemes.
 
-<h2>Alkanes</h2>
+Nomenclature follows the general pattern [main][suffix].
+- [suffix] is taken from the highest priority functional group
+- [main] may be quite complicated, but can only consist of numbers or prefix names
+
+## Alkanes
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -42,10 +30,11 @@ A very simple example is given for each, followed by a more complex one to highl
 </table>
 
 <label for="easyalkane">Butane</label><label for="hardalkane" style="margin-left:40%">4-ethyl-6-methylnonane</label>
-<embed id="easyalkane" src="https://embed.molview.org/v1/?mode=balls&cid=7843&bg=gray" width="40%" height="300"><embed id="hardalkane" src=https://embed.molview.org/v1/?mode=balls&cid=53426720&bg=gray width="40%" height="300">
+<embed id="easyalkane" src="https://embed.molview.org/v1/?mode=balls&cid=7843&bg=gray" width="40%" height="300">
+<embed id="hardalkane" src=https://embed.molview.org/v1/?mode=balls&cid=53426720&bg=gray width="40%" height="300">
   
 
-<h2>Haloalkanes</h2>
+## Haloalkanes 
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -67,7 +56,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyhalo" src=https://embed.molview.org/v1/?mode=balls&cid=7964&bg=gray width="40%" height="300"><embed id="hardhalo" src=https://embed.molview.org/v1/?mode=balls&cid=521807&bg=gray width="40%" height="300">
 
 
-<h2>Alcohols</h2>
+## Alcohols
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -90,7 +79,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyalcohol" src=https://embed.molview.org/v1/?mode=balls&cid=702&bg=gray width="40%" height="300"><embed id="hardalcohol" src=https://embed.molview.org/v1/?mode=balls&cid=247470&bg=gray width="40%" height="300">
 
 
-<h2>Aldehydes</h2>
+## Aldehydes
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -110,7 +99,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyalde" src=https://embed.molview.org/v1/?mode=balls&cid=712&bg=gray width="40%" height="300"><embed id="hardalde" src=https://embed.molview.org/v1/?mode=balls&cid=20283474&bg=gray width="40%" height="300">
 
 
-<h2>Ketones</h2>
+## Ketones
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -131,7 +120,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyketone" src=https://embed.molview.org/v1/?mode=balls&cid=180&bg=gray width="40%" height="300"><embed id="hardketone" src=https://embed.molview.org/v1/?mode=balls&cid=59746911&bg=gray width="40%" height="300">
 
 
-<h2>Carboxylic acids</h2>
+## Carboxylic acids
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -151,7 +140,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyacid" src=https://embed.molview.org/v1/?mode=balls&cid=284&bg=gray width="40%" height="300"><embed id="hardacid" src=https://embed.molview.org/v1/?mode=balls&cid=22734&bg=gray width="40%" height="300">
 
 
-<h2>Esters</h2>
+## Esters
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -172,7 +161,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyester" src=https://embed.molview.org/v1/?mode=balls&cid=6584&bg=gray width="40%" height="300"><embed id="hardester" src=https://embed.molview.org/v1/?mode=balls&cid=143096&bg=gray width="40%" height="300">
 
 
-<h2>Ethers</h2>
+## Ethers
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -194,7 +183,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyether" src=https://embed.molview.org/v1/?mode=balls&cid=10903&bg=gray width="40%" height="300"><embed id="hardether" src=https://embed.molview.org/v1/?mode=balls&cid=54071659&bg=gray width="40%" height="300">
 
 
-<h2>Amines</h2>
+## Amines
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -217,7 +206,7 @@ A very simple example is given for each, followed by a more complex one to highl
 <embed id="easyamine" src=https://embed.molview.org/v1/?mode=balls&cid=6329&bg=gray width="40%" height="300"><embed id="hardamine" src=https://embed.molview.org/v1/?mode=balls&cid=17937709&bg=gray width="40%" height="300">
 
 
-<h2>Amides</h2>
+## Amides
 <table style="width:80%">
   <tr>
     <th>Group name</th>
@@ -237,9 +226,3 @@ A very simple example is given for each, followed by a more complex one to highl
 
 <label for="easyamide">Ethanamide (acetamide)</label><label for="hardamide" style="margin-left:40%">N-ethyl-N-propyl-2-methylpentanamide</label>
 <embed id="easyamide" src=https://embed.molview.org/v1/?mode=balls&cid=178&bg=gray width="40%" height="300"><embed id="hardamide" src=https://embed.molview.org/v1/?mode=balls&smiles=C(C(C)CCC)(N(CCC)CC)=O&bg=gray width="40%" height="300">
-
-</p>
-</h>
-</pre>
-</body>
-</html>
