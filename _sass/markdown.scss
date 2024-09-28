@@ -118,22 +118,27 @@
 
 .md h2>a:before {
     content: "##";
+    color: $green;
 }
 
 .md h3>a:before {
     content: "###";
+    color: $green;
 }
 
 .md h4>a:before {
     content: "####";
+    color: $green;
 }
 
 .md h5>a:before {
     content: "#####";
+    color: $green;
 }
 
 .md h6>a:before {
     content: "######";
+    color: $green;
 }
 
 .md li {
