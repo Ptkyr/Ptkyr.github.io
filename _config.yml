@@ -40,7 +40,8 @@ defaults:
       author: "ptkyr"
       author: *default_author
 
-# plugins: ["jekyll-paginate"]
+plugins:
+  - jekyll-seo-tag
 
 markdown: kramdown
 highlighter: rouge

@@ -25,7 +25,7 @@ cmd: cat about.md
 
   Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions difficult to implement. It also makes you hate array `length`.
 
-  Both of my team members wanted to build `joosc` in Rust. I, knowing zero Rust, agreed immediately, precisely because I knew zero Rust. Four months later it became my favourite language and easily the one I am most comfortable in. That's right, this heading was really just an excuse to talk about Rust.
+  Both of my team members wanted to build `joosc` in Rust. I, knowing zero Rust, agreed immediately, precisely because I knew zero Rust. Four months later it became my favourite language and easily the one I am most comfortable in. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
 
 + **[Constructor](): A UW-themed Settlers of Catan clone**
 
