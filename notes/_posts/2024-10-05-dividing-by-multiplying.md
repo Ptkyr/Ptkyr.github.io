@@ -70,3 +70,5 @@ I suppose some compression magic happens to let it load `0xeeeeeeeeeeeeeeee` in 
 So yeah. If you ever want to know the inverse of $$n$$ (broken up into 16-bit chunks of hex) in $$\mathbb{Z}_{2^{k}}$$ for $$k \in \{8,16,32,64\}$$ and more, just divide by $$n$$ in some program and pass it to clang with `-O3`.
 
 I wasn't able to find where exactly llvm's ISel does this transformation, but I'll update this post if I find out.
+
+[rust_table]: https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=50869acce3245dcfaaa7eb62e5a590ea
