@@ -28,7 +28,7 @@ mov  x23, #-1229782938247303442  ; 0xeeeeeeeeeeeeeeee
 ; ... about ten instructions, for some reason
 movk x23, #61167                 ; 0xeeef
 ```
-ARM's `movk` instruction means to move in a 16-bit immediate while keeping the rest of the bits unchanged. One can optionally shift the immediate before moving, but that didn't happen here. In fact, because ARM instructions must fit in 32-bit words, it typically needs to use several `movk` instructions to load a 64-bit immediate, like so:
+ARM's `movk` instruction means to move in a 16-bit immediate while keeping the rest of the bits unchanged. One can optionally shift the immediate before moving, but that didn't happen here. In fact, because ARM instructions must fit in 32-bit words, it typically takes several `movk` instructions to load a 64-bit immediate, like so:
 ```nasm
 mov     x22, #14673
 movk    x22, #34235, lsl #16
