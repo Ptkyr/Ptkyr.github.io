@@ -8,7 +8,14 @@ cmd: cat about.md
 
 ## About Me
 
-素直に紹介したくありません。
+ I'm a third year CS student at uWaterloo, with an interest in compilers and graphics. Also minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I would get a chemistry minor as well, but it turns out you have to take courses that aren't organic chemistry for that. Oh well, got pretty close.
+
+My hobbies are mostly about doing things fast. I used to speedrun indie games and speedsolve various puzzles; here are some of my PBs:
++ Speedcubing (3x3): 6.25 single, 8.72 ao5, 10.17 ao100 ([officially][wca], much worse; I should really go to more competitions)
++ Nonograms/picross (15x15): [1:10.71][picross]
++ Minesweeper (Hard, NG): [87.437][minesweeper]
+
+These days my hands can't take much stress, so I study Japanese. 今薬屋のひとりごとを読んでいるが、たまにこの選択を後悔します。最初の本として勧めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
 
 ## Code
 
@@ -31,7 +38,7 @@ These are some projects I've worked/am working on. If its name links back here, 
 
 + **[Constructor](/#code): A UW-themed Settlers of Catan clone**
 
-  Also a three-person job, built in C++ for my CS246 final project in Spring 2022. Runs completely on the command line with a text-based GUI. Catan, but with a lot more geese.
+  Also a three-person job, built in C++ for my CS246 final project in Spring 2022. Runs completely on the command line with a text-based board visualization. Catan, but with a lot more geese.
 
 * * *
 
@@ -40,3 +47,7 @@ These are some projects I've worked/am working on. If its name links back here, 
 + e-mail: `e224wang (AT) uwaterloo (DOT) ca`
 
 * * *
+
+[picross]: https://www.puzzle-nonograms.com/hall.php?hallsize=2&nick=ptkyr
+[wca]: https://www.worldcubeassociation.org/persons/2023WANG92
+[minesweeper]: https://minesweeper.online/game/826309427
