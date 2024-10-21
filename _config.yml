@@ -73,6 +73,3 @@ nav:
   - name:           "credits.md"
     href:           "/credits"
     kind:           "file"
-  - name:           "résumé.pdf"
-    href:           "/resume.pdf"
-    kind:           "file"
