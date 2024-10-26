@@ -8,14 +8,14 @@ cmd: cat about.md
 
 ## About Me
 
- I'm a third year CS student at uWaterloo, with an interest in compilers and graphics. Also minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I would get a chemistry minor as well, but it turns out you have to take courses that aren't organic chemistry for that. Oh well, got pretty close.
+ I'm a third year CS student at uWaterloo, with an interest in compilers and graphics. Also minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but it turns out you can't do that by only taking organic courses. Oh well, got pretty close.
 
 My hobbies are mostly about doing things fast. I used to speedrun indie games and speedsolve various puzzles; here are some of my PBs:
 + Speedcubing (3x3): 6.25 single, 8.72 ao5, 10.17 ao100 ([officially][wca], much worse; I should really go to more competitions)
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
-These days my hands can't take much stress, so I study Japanese. 今薬屋のひとりごとを読んでいるが、たまにこの選択を後悔します。最初の本として勧めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
+These days my hands can't take much stress, so I study Japanese. 現在、薬屋のひとりごとの小説を読んでいるが、たまにこの選択を後悔します。最初の本として勧めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
 
 ## Code
 
@@ -32,9 +32,9 @@ These are some projects I've worked/am working on. If its name links back here, 
   - do-while/switch/break/continue
   - Floats
 
-  Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions difficult to implement. It also makes you hate array `length`.
+  Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions/interfaces difficult to implement. It also makes you hate `Array.length`.
 
-  Both of my team members wanted to build `joosc` in Rust. I, knowing zero Rust, agreed immediately, precisely because I knew zero Rust. Four months later it became my favourite language and easily the one I am most comfortable in. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
+  Both of my team members wanted to build `joosc` in Rust. Knowing zero Rust, I agreed immediately---precisely because I knew zero Rust. Four months later it became my favourite language and easily the one I am most comfortable in. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
 
 + **[Constructor](/#code): A UW-themed Settlers of Catan clone**
 
