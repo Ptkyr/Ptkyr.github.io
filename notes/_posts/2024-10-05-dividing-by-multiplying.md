@@ -22,7 +22,7 @@ cleanup:                   // %preds: for.body, ...
 ```
 That 120 comes from `foo.field` being a `std::vector<T>` where `sizeof(T) == 120`. The assembly loads the start and end of the vector's active capacity and does some pointer arithmetic to calculate `size()`. The only weird thing is that `mul` somehow performing division by 15. 
 
-A little manual dataflow analysis showed that `x23`, was initialized as such in the loop preheader and never def'd again:
+A little manual dataflow analysis showed that `x23` was initialized as such in the loop preheader and never def'd again:
 ```nasm
 mov  x23, #-1229782938247303442  ; 0xeeeeeeeeeeeeeeee
 ; ... about ten instructions, for some reason
