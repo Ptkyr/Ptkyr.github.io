@@ -231,6 +231,11 @@ As for why these are the *only* fuckups, any number of (just) corner twists can 
 
 For reducing to ES-related cosets, if you swap more than two of any piece type, there's always some commutator that can cycle 3 pieces of the same type, for instance both A perms and the U perms. It's what makes 3-style work! So swapping two of the same piece type is the most (only) illegal swap-related operation you can perform. On a related note, two-edge swaps are the same coset as two-corner swaps, because no matter if they're adjacent or opposite, you can always select a particular PLL from F, J, N, R, T, V, Y that swaps the edges of interest, replacing them with two swapped corners.
 
+That's it! As long as you're convinced these are the only cosets of $$C$$ in $$P$$, Lagrange's theorem gives $$[P : C] = 12$$, hence 
+<center>
+    $$\lvert C \rvert = \frac{8! \cdot 3^{8} \cdot 12! \cdot 2^{12}}{12} = 43,252,003,274,489,856,000.$$
+</center>
+
 Stay tuned for the post where I gather the courage (boredom) to walk through finding the number of permutations up to conjugacy by whole-cube symmetries (901,083,404,981,813,616).
 
 [^1]: All figures were generated with [puzzlegen][puzzlegen].
