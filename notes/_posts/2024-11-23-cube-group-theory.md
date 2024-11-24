@@ -170,11 +170,11 @@ Then, define $$\varphi$$ to be the sum of all values of edge stickers on the U f
     </body>
 </html>
 
-By construction, $$\varphi(e) = 0$$, and notice $$\varphi(a) = 0$$ for any of the generators $$a \in \{U, D, R, L, F, B\} \subset C$$. FMC or ZZ enjoyers might notice that $$\varphi$$ just counts the number of oriented edges, which is always even for any state in $$C$$.
+By construction, $$\varphi(e) = 0$$, and notice $$\varphi(a) = 0$$ for any of the generators $$a \in \{U, D, R, L, F, B\} \subset C$$. FMC or ZZ enjoyers might notice that $$\varphi$$ just counts the number of mis-oriented edges, which is always even for any state in $$C$$.
 
 I'm far too lazy to actually show $$\varphi$$ is a homomorphism, but maybe it's obvious. Then since each generator is in $$\ker(\varphi)$$, it follows that $$\varphi(C) = \{0\}$$. However, $$\varphi(\text{EF}) = 1$$, so $$\text{EF} \not\in C$$. To show that CT, CT' et al. are distinct from $$C$$, a similar homomorphism $$\psi : P \to \mathbb{Z}_3$$ exists by labelling the corners in a natural way, as detailed in [this post][loganmso]. Surely one is also constructible for edge swaps, but I don't want to think of one.[^2]
 
-As for why these are the *only* fuckups, any number of (just) corner twists can be reduced to either $$C$$, CT, or CT' with ZBLL U72[^3]: R U2 R' U' R U' R' U2 R' U2 R U R' U R U2, which rotates two adjacent corners (UFR and UBR) in opposite directions. Likewise, any number of edge flips can be reduced to $$C$$ or EF using a particular OLL28[^4] (r U R' U' r' U2 R U R U' R2 U2 R) alg that flips two edges (UF and UR). Of course, you can independently perform these operations with the hybrid cosets.
+As for why these are the *only* fuckups, any number of (just) corner twists can be reduced to either $$C$$, CT, or CT' with ZBLL U72:[^3] R U2 R' U' R U' R' U2 R' U2 R U R' U R U2, which rotates two adjacent corners (UFR and UBR) in opposite directions. Likewise, any number of edge flips can be reduced to $$C$$ or EF using a particular OLL28[^4] (r U R' U' r' U2 R U R U' R2 U2 R) alg that flips two edges (UF and UR). Of course, you can independently perform these operations with the hybrid cosets.
 
 <html>
     <head>
