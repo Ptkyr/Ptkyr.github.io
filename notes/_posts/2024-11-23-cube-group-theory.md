@@ -21,6 +21,14 @@ We're interested in $$C$$, the subset of $$P$$ where the permutation of pieces i
         th, td {
             padding: 10px;
             text-align: center;
+            width: 100px;
+            white-space: nowrap; /* Prevents text from wrapping */
+        }
+        td img {
+            max-width: 100%;  /* Prevents image from exceeding td width */
+            height: auto;     /* Maintains the aspect ratio */
+            display: block;   /* Prevents space below image */
+            margin: 0 auto;   /* Centers the image if td is wider than the image */
         }
     </style>
     <body>
