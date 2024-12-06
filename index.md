@@ -15,7 +15,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
-These days I take better care of my hands, so instead of all that stuff I study Japanese. 現在、薬屋のひとりごとの小説を読んでいるが、たまにこの選択を後悔します。最初の本として勧めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
+These days I take better care of my hands, so instead of all that stuff I study Japanese. 現在、薬屋のひとりごとの小説を読んでいるが、たまにこの選択を後悔します。最初の本としてを薦めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
 
 ## Code
 
