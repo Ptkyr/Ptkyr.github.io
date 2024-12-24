@@ -15,7 +15,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
-These days I take better care of my hands, so instead of all that stuff I study Japanese. 現在、薬屋のひとりごとの小説を読んでいるが、たまにこの選択を後悔します。最初の本としてを薦めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
+These days I take better care of my hands, so instead of all that stuff I study Japanese. 現在、薬屋のひとりごとの小説を読んでいるが、たまにこの選択を後悔します。初の本としてを薦めるはずがない。どうして選んだのがわからない。音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
 
 ## Code
 
@@ -34,7 +34,7 @@ These are some projects I've worked/am working on. If its name links back here, 
 
   Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions/interfaces difficult to implement. It also makes you hate `Array.length`.
 
-  Both of my team members wanted to build `joosc` in Rust. Knowing zero Rust, I agreed immediately---precisely because I knew zero Rust. Four months later it became my favourite language and easily the one I am most comfortable in. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
+  Both of my team members wanted to build `joosc` in Rust. Knowing zero Rust, I agreed immediately---precisely because I knew zero Rust. Four months later, it wound up as my favourite language. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
 
 + **[Constructor](/#code): A UW-themed Settlers of Catan clone**
 
