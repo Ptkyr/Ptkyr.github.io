@@ -1,8 +1,8 @@
 ---
 layout: dir
-title: ptkyr/notes
+title: ptkyr/posts
 cmd: "ls -la"
-pwd: notes
+pwd: posts
 ---
 
 <nav class="term">

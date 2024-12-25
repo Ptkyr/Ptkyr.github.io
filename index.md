@@ -19,7 +19,7 @@ These days I take better care of my hands, so instead of all that stuff I study 
 
 ## Code
 
-These are some projects I've worked/am working on. If its name links back here, you'll need an [access key](/notes/_posts/2024-09-28-granting-repo-access.md) to clone the source.
+These are some projects I've worked/am working on. If its name links back here, you'll need an [access key](/posts/_posts/2024-09-28-granting-repo-access.md) to clone the source.
 
 + **[joosc](/#code): A Java(?) compiler**
 

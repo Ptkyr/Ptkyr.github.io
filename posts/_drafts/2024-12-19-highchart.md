@@ -223,3 +223,8 @@ author: ptkyr
     </script>
 
 </body>
+
+
+Plots generated with [highcharts][highcharts].
+
+[highcharts]: https://www.highcharts.com/

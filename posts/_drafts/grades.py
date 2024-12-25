@@ -73,6 +73,9 @@ with open(csv_file, mode="r", newline="", encoding="utf-8") as file:
                 )
         print(indent("    ]\n},"))
 
+    for subj, arr in by_subject.items():
+        print(subj, mean([int(x["Grade"]) for x in arr if x["Grade"]]))
+
     averages = [
         mean(
             int(x["Grade"]) for v in by_subject.values() for x in v if x["Term"] == term

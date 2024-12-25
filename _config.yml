@@ -59,11 +59,11 @@ sass:
 
 # Navigation
 nav:
-  - name:           "code"
+  - name:           "github"
     href:           "https://github.com/Ptkyr"
     kind:           "dir"
-  - name:           "notes"
-    href:           "/notes"
+  - name:           "posts"
+    href:           "/posts"
     kind:           "dir"
   # - name:           "mail"
   #   href:           "mailto://e224wang@uwaterloo.ca"
