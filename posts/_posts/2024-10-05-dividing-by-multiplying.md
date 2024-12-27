@@ -11,7 +11,7 @@ for (int i = 0; i < foo.field.size(); ++i) { ... }
 ```
 ```llvm
 cleanup:                   // %preds: for.body, ...
-    %sdiv.i.i = sdiv exact i64 %ptr.sub.i.i, i64 120, !...
+    %sdiv.i.i = sdiv exact i64 %ptr.sub.i.i, i64 120, ...
 ```
 ```nasm
 .BB34:                     ; %cleanup
@@ -20,7 +20,7 @@ cleanup:                   // %preds: for.body, ...
     asr x9, x9, 3
     mul x9, x9, x23        ; !!!
 ```
-That 120 comes from `foo.field` being a `std::vector<T>` where `sizeof(T) == 120`. The assembly loads the start and end of the vector's active capacity and does some pointer arithmetic to calculate `size()`. The only weird thing is that `mul` somehow performing division by 15. 
+That 120 comes from `foo.field` being a `std::vector<T>` where `sizeof(T) == 120`. The assembly loads the start and end of the vector's active capacity and does some pointer arithmetic to calculate `size()`, where it has to divide by 120. It divides by 8 with a shift, and that `mul` somehow performs division by 15. 
 
 A little manual dataflow analysis showed that `x23` was initialized as such in the loop preheader and never def'd again:
 ```nasm

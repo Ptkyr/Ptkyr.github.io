@@ -33,7 +33,7 @@ defaults:
       layout: main
   -
     scope:
-      path: "notes"
+      path: "posts"
       type: "posts"
     values:
       layout: "post"
