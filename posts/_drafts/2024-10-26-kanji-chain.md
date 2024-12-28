@@ -27,4 +27,5 @@ author: ptkyr
 嫋やか willowy, graceful
 煌びやか resplendent, dazzling
 にこやか smiling, beaming
+健やか vigorous, healthy
 朗らか sonorous, cheerful

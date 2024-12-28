@@ -17,7 +17,8 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 
 These days I take better care of my hands, so instead of all that stuff I study Japanese. 
 現在、薬屋のひとりごとの小説を読んで、大分楽しんですが、たまにはこの選択を後悔します。
-初の本としてを薦めるはずがない。どうしてもっとわかりやすいの著作を選ばなかったのがわからない。
+初の本としてを薦めるはずがない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。
+藪蛇かもねぇ。
 音楽なら、強い女性声に目がなくて、菅原圭やヨルシカが好き、Eveやtoeもよく聴きます。
 
 ## Code
