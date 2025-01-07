@@ -19,6 +19,8 @@ author: ptkyr
 
 重宝石
 
+武勲功労
+
 「やか」「らか」という罰当たりな語彙
 艶やか bewitching
 穏やか calm
@@ -28,4 +30,6 @@ author: ptkyr
 煌びやか resplendent, dazzling
 にこやか smiling, beaming
 健やか vigorous, healthy
+ささやか tiny, modest, insignificant
+しなやか supple, flexible, elastic
 朗らか sonorous, cheerful
