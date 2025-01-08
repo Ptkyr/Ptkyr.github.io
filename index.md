@@ -6,7 +6,7 @@ cmd: cat about.md
 
 # Eric Wang
 
-## About Me
+## About
 
 I'm a fourth year CS student at uWaterloo, with an interest in compilers and graphics, minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
 
@@ -16,12 +16,17 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
 These days I take better care of my hands, so instead of all that stuff I study Japanese. 
-現在、薬屋のひとりごとの小説を読んで、大分楽しんですが、たまにはこの選択を後悔します。
-初の本としてを薦めるはずがない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。
-藪蛇かもねぇ。
-音楽なら、強い女性声に目がなくて、菅原圭さんやヨルシカが好き、Eveやtoeもよく聴きます。
+２０２２年一月ぐらいひらがなを習った後、別に活用していなかった。
+でも、好きな漫画家や作家を支援するのはいいかなってずっと思っていたにより、２０２４年九月から本気で勉強するべく、『薬屋のひとりごと』の小説を読み始めた。
 
-## Code
+大分楽しくて、超難しくて、たまにこの選択を後悔した。
+初の本としてを薦めるはずがない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。藪蛇だった。
+そして、『安達としまむら』と色々な漫画へ逃げた。未だ逃亡中です。
+その内に猫猫のことを再訪したいけど、休載する間に『葬送のフリーレン』を日本語で読み返そうと思う。
+
+音楽なら、強い女性声に目がなくて、菅原圭さんやヨルシカが好き、Eveやtoeもよく聴く。
+
+## Projects
 
 Some stuff I've worked/am working on. If its name links back here, you'll need an [access key](/posts/_posts/2024-09-28-granting-repo-access.md) to clone the source.
 
@@ -39,6 +44,8 @@ Some stuff I've worked/am working on. If its name links back here, you'll need a
   Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions/interfaces difficult to implement. It also makes you hate `Array.length`, because final fields aren't supported in general, but `length` acts like one.
 
   Both of my team members wanted to write `joosc` in Rust. Knowing zero Rust, I agreed immediately---precisely because I knew zero Rust. Four months later, it wound up as my favourite language. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
+
+  A little more on this [here](/posts/_posts/2025-01-06-lea.md).
 
 + **[Constructor](/#code): A UW-themed Settlers of Catan clone**
 
