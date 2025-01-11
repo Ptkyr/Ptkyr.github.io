@@ -8,6 +8,8 @@ cmd: cat about.md
 
 ## About
 
+Hello, and welcome to a place I occasionally write about things I do.
+
 I'm a fourth year CS student at uWaterloo, with an interest in compilers and graphics, minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
 
 My hobbies are mostly about doing things fast. I used to speedrun indie games and speedsolve various puzzles; here are some of my PBs:
@@ -16,12 +18,13 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
 These days I take better care of my hands, so instead of all that stuff I study Japanese. 
-２０２２年一月ぐらいひらがなを習った後、別に活用していなかった。
-でも、好きな漫画や小説を支援したり、直接に解したりするのはいいかなってずっと思っていたにより、２０２４年九月から本気で勉強するべく、『薬屋のひとりごと』の小説を読み始めた。
+２０２２年１月ぐらいひらがなを習った後、別に活用していなかった。
+でも、好きな漫画や小説を支援したり、直接に解したりするのはいいかなってずっと思っていたにより、
+２０２４年９月から本気で勉強するべく、『薬屋のひとりごと』の小説を読み始めた。
 
 大分楽しかったが、超難しくて、たまにこの選択を後悔した。
-初の本としてを薦められない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。藪蛇だった。
-そして、『安達としまむら』と色々な漫画へ逃げた。未だ逃亡中です。
+初の本としてを冗談でも薦められない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。藪蛇だった。
+第3本を読み終わった時は、『安達としまむら』と色々な漫画へ逃げた。未だ逃亡中です。
 その内に猫猫のことを再訪したいけど、休載する間に『葬送のフリーレン』を日本語で読み返そうと思う。
 
 音楽なら、強い女性声に目がなくて、菅原圭さんやヨルシカが好き、Eveやtoeもよく聴く。
