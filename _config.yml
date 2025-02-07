@@ -39,6 +39,12 @@ defaults:
       layout: "post"
       author: "ptkyr"
       author: *default_author
+  -
+    scope:
+      path: "notes"
+      type: "pages"
+    values:
+      layout: "main"
 
 plugins:
   - jekyll-seo-tag
@@ -64,6 +70,9 @@ nav:
     kind:           "dir"
   - name:           "posts"
     href:           "/posts"
+    kind:           "dir"
+  - name:           "notes"
+    href:           "/notes"
     kind:           "dir"
   # - name:           "mail"
   #   href:           "mailto://e224wang@uwaterloo.ca"

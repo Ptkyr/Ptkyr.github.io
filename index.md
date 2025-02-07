@@ -8,7 +8,7 @@ cmd: cat about.md
 
 ## About
 
-Hello, and welcome to a place I occasionally write about things I do.
+Welcome to a place I occasionally write about things I do.
 
 I'm a fourth year CS student at uWaterloo, with an interest in compilers and graphics, minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
 
@@ -17,7 +17,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
-These days I take better care of my hands, so instead of all that stuff I study Japanese. 
+These days I take better care of my hands, so I mostly read a lot and study Japanese. 
 ２０２２年１月ぐらいひらがなを習った後、別に活用していなかった。
 でも、好きな漫画や小説を支援したり、直接に解したりするのはいいかなってずっと思っていたにより、
 ２０２４年９月から本気で勉強するべく、『薬屋のひとりごと』の小説を読み始めた。
