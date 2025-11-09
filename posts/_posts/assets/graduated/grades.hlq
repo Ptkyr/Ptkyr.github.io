@@ -1,0 +1,30 @@
+CREATE TABLE if not exists grades AS 
+ SELECT * FROM read_csv('~/site/posts/_posts/grades.csv', sample_size = -1);
+
+SELECT
+ Term as Category,
+ AVG(Grade),
+ MEDIAN(Grade),
+ STDDEV(Grade)
+ FROM grades
+GROUP BY Term 
+
+UNION
+
+SELECT
+ Subject as Category,
+ AVG(Grade),
+ MEDIAN(Grade),
+ STDDEV(Grade)
+ FROM grades
+GROUP BY Subject
+
+UNION
+
+SELECT  
+ 'Total' as Category,
+ AVG(Grade),
+ MEDIAN(Grade),
+ STDDEV(Grade)
+FROM grades
+ORDER BY Category

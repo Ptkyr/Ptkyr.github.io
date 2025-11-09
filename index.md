@@ -17,17 +17,20 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
-These days I take better care of my hands, so I mostly read a lot and study Japanese. 
-２０２２年１月ぐらいひらがなを習った後、別に活用していなかった。
-でも、好きな漫画や小説を支援したり、直接に解したりするのはいいかなってずっと思っていたにより、
-２０２４年９月から本気で勉強するべく、『薬屋のひとりごと』の小説を読み始めた。
+These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
-大分楽しかったが、超難しくて、たまにこの選択を後悔した。
-初の本としてを冗談でも薦められない。どうしてもっとわかりやすい著作を選ばなかったのがわからない。藪蛇だった。
-第3本を読み終わった時にあたり、『安達としまむら』という小説と色々な漫画へ逃げた。未だ逃亡中です。
-その内に猫猫のことを再訪したいけど、休載する間に『葬送のフリーレン』を日本語で読み返そうと思う。
+読み終わった作品：
+- 狼と香辛料　1～４巻
+- 薬屋のひとりごと　１～３巻
+- 雨夜の月　1～10巻
+- この恋を星には願わない　１～４巻
+- 安達としまむら　１１～１２巻、SS、SS2　（微妙でしょ）
+- 拝啓、在りし日に咲く花たちへ　1～2巻
+- 小春と湊　１～３巻
+- 無力聖女と無能王女　1～2巻
+- 週に一度クラスメイトを買う話　1～2巻
 
-音楽なら、強い女性声に目がなくて、菅原圭さんやヨルシカが好き、Eveやtoeもよく聴く。
+音楽なら、強い女性系声やマスロックに目がなくて、ヨルシカの過激派です。
 
 ## Projects
 
@@ -35,7 +38,7 @@ Some stuff I've worked/am working on. If its name links back here, you'll need a
 
 + **[joosc](/#code): A Java(?) compiler**
 
-  For my third co-op I did a research term at the [PLG](https://plg.uwaterloo.ca/) in Winter 2024. Woefully underqualified but eager enough to learn, nabbing both a [URF](https://cs.uwaterloo.ca/current-undergraduate-students/research-opportunities/undergraduate-research-fellowship-urf) and [USRA](https://uwaterloo.ca/student-awards-financial-aid/awards/nserc-undergraduate-research-awards) was enough to convince [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/) to supervise me. To gain background in compilers and PL work, I took CS444 (Compiler Construction) during the term and also audited CS442 (Principles of Programming Languages). `joosc` is the name of the Joos1W compiler I and two other group members built over four months as the main coursework of CS444.
+  For my third co-op I joined the [PLG](https://plg.uwaterloo.ca/) in Winter 2024. Woefully underqualified but eager to learn, nabbing both a [URF](https://cs.uwaterloo.ca/current-undergraduate-students/research-opportunities/undergraduate-research-fellowship-urf) and [USRA](https://uwaterloo.ca/student-awards-financial-aid/awards/nserc-undergraduate-research-awards) was enough to convince [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/) to supervise me. To gain background in compilers/PL, I concurrently took CS444 (Compiler Construction) and audited CS442 (Principles of Programming Languages). `joosc` is the name of the Joos1W compiler two classmates and I built over four months as the main coursework of CS444.
 
   Joos1W is a subset of the Java Language Specification (2nd Edition) that notably (among other things) omits:
   - Nested classes
@@ -44,7 +47,7 @@ Some stuff I've worked/am working on. If its name links back here, you'll need a
   - do-while/switch/break/continue
   - Floats
 
-  Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions/interfaces difficult to implement. It also makes you hate `Array.length`, because final fields aren't supported in general, but `length` acts like one.
+  Essentially, it contains just enough to make parsing, name disambiguation, type linking and checking, dataflow analysis, inheritance, and virtual functions/interfaces interesting to implement. It also makes you hate `Array.length`, because final fields aren't supported in general, but `length` acts like one.
 
   Both of my team members wanted to write `joosc` in Rust. Knowing zero Rust, I agreed immediately---precisely because I knew zero Rust. Four months later, it wound up as my favourite language. That's right, this heading was really just an excuse to talk about Rust. All my homies love Rust 🦀.
 
@@ -56,7 +59,7 @@ Some stuff I've worked/am working on. If its name links back here, you'll need a
 
 * * *
 
-### Contact
+## Contact
 
 + e-mail: `e224wang (AT) uwaterloo (DOT) ca`
 

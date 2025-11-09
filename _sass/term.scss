@@ -119,6 +119,21 @@ a {
         }
     }
 
+    &.symlink-header {
+        color: $symlink-color;
+        border-bottom: none;
+
+        &:hover {
+            background-color: $symlink-color;
+            color: $background;
+
+            &::after {
+                border-bottom: none;
+                color: $background;
+            }
+        }
+    }
+
     // fake "files"
     &.file {
         color: $file-color;

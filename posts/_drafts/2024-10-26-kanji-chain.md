@@ -32,4 +32,5 @@ author: ptkyr
 健やか vigorous, healthy
 ささやか tiny, modest, insignificant
 しなやか supple, flexible, elastic
+淑やか ladylike, graceful
 朗らか sonorous, cheerful

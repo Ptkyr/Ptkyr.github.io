@@ -65,9 +65,6 @@ sass:
 
 # Navigation
 nav:
-  - name:           "github"
-    href:           "https://github.com/Ptkyr"
-    kind:           "dir"
   - name:           "posts"
     href:           "/posts"
     kind:           "dir"
@@ -83,3 +80,6 @@ nav:
   - name:           "credits.md"
     href:           "/credits"
     kind:           "file"
+  - name:           "github"
+    href:           "https://github.com/Ptkyr"
+    kind:           "symlink-header"
