@@ -20,15 +20,15 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
-- 狼と香辛料　1～４巻
+- 狼と香辛料　１～４巻
 - 薬屋のひとりごと　１～３巻
-- 雨夜の月　1～10巻
+- 雨夜の月　１～１０巻
 - この恋を星には願わない　１～４巻
 - 安達としまむら　１１～１２巻、SS、SS2　（微妙でしょ）
-- 拝啓、在りし日に咲く花たちへ　1～2巻
+- 拝啓、在りし日に咲く花たちへ　１～２巻
 - 小春と湊　１～３巻
-- 無力聖女と無能王女　1～2巻
-- 週に一度クラスメイトを買う話　1～2巻
+- 無力聖女と無能王女　１～２巻
+- 週に一度クラスメイトを買う話　１～２巻
 
 音楽なら、強い女性系声やマスロックに目がなくて、ヨルシカの過激派です。
 
