@@ -20,7 +20,8 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
-- 狼と香辛料　１～４巻
+- 殺されて当然と少女は言った
+- 狼と香辛料　１～６巻
 - 薬屋のひとりごと　１～３巻
 - 雨夜の月　１～１０巻
 - この恋を星には願わない　１～４巻
