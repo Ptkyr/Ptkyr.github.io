@@ -20,9 +20,10 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
+- 魔法少女ノ魔女裁判
 - 殺されて当然と少女は言った
 - 狼と香辛料　１～６巻
-- 薬屋のひとりごと　１～４巻
+- 薬屋のひとりごと　１～５巻
 - 雨夜の月　１～１０巻
 - この恋を星には願わない　１～５巻
 - 安達としまむら　１１～１２巻、SS、SS2　（１～１０巻は英語で）
