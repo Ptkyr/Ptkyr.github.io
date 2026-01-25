@@ -23,7 +23,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - 魔法少女ノ魔女裁判
 - 殺されて当然と少女は言った
 - けものティータイム
-- 狼と香辛料　１～６巻
+- 狼と香辛料　１～８巻
 - 薬屋のひとりごと　１～６巻
 - 雨夜の月　１～１０巻
 - この恋を星には願わない　１～５巻
