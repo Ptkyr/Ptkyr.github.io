@@ -27,7 +27,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - けものティータイム
 - ここで唐揚げ弁当を食べないでください
 - 狼と香辛料　１～６巻
-- 薬屋のひとりごと　１～１２巻
+- 薬屋のひとりごと　１～１３巻
 - 雨夜の月　１～１０巻
 - この恋を星には願わない　１～５巻
 - 安達としまむら　１１～１２巻、SS、SS2　（１～１０巻は英語で）
