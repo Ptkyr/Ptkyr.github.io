@@ -13,7 +13,7 @@ Welcome to a place I occasionally write about things I do.
 I'm a fourth year CS student at uWaterloo, with an interest in compilers and graphics, minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
 
 My hobbies are mostly about doing things fast. I used to speedrun indie games and speedsolve various puzzles; here are some of my PBs:
-+ Speedcubing (3x3): 6.25 single, 8.72 ao5, 10.17 ao100 ([officially][wca], much worse; I should really go to more competitions)
++ Speedcubing (3x3): [5.57][pbsingle] single, 8.72 ao5, 10.17 ao100 ([officially][wca], much worse; I should really go to more competitions)
 + Nonograms/picross (15x15): [1:10.71][picross]
 + Minesweeper (Hard, NG): [87.437][minesweeper]
 
@@ -27,7 +27,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - けものティータイム
 - ここで唐揚げ弁当を食べないでください
 - 狼と香辛料　１～６巻
-- 薬屋のひとりごと　１～１３巻
+- 薬屋のひとりごと　１～１５巻
 - 雨夜の月　１～１０巻
 - この恋を星には願わない　１～５巻
 - 安達としまむら　１１～１２巻、SS、SS2　（１～１０巻は英語で）
@@ -74,3 +74,4 @@ Some stuff I've worked/am working on. If its name links back here, you'll need a
 [picross]: https://www.puzzle-nonograms.com/hall.php?hallsize=2&nick=ptkyr
 [wca]: https://www.worldcubeassociation.org/persons/2023WANG92
 [minesweeper]: https://minesweeper.online/game/826309427
+[pbsingle]: https://cubedb.net/?puzzle=3x3&title=pb&scramble=B-_F2_U2_R2_D2_R2_F_D2_B2_U2_L2_D2_U-_B2_L-_F_L_D_L2_F_R&time=5.57&alg=z2_y_%2F%2F_inspection%0AD2_U2_R-__%2F%2F_cross%0Ay-_U_L_U_L-_%2F%2F_1st_pair%0AU-_R_U2_R-_U_R_U-_R-_%2F%2F_2nd_pair%0AL-_U-_L_U_y-_L_U_L-_%2F%2F_3rd_pair%0AU2_R_U_R-_%2F%2F_4th_pair%0AR_U_R-_U_R_U2_R-_U_%2F%2F_OLL(CP)
