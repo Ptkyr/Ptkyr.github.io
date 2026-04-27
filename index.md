@@ -8,9 +8,7 @@ cmd: cat about.md
 
 ## About
 
-Welcome to a place I occasionally write about things I do.
-
-I'm a fourth year CS student at uWaterloo, with an interest in compilers and graphics, minoring in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
+CS grad from uWaterloo with an interest in compilers and graphics, minored in pure math with an algebraic focus and C&O with a graph theory focus. For a while I thought I'd minor in chemistry too, but you apparently can't do that by only taking organic courses. Oh well, got pretty close.
 
 My hobbies are mostly about doing things fast. I used to speedrun indie games and speedsolve various puzzles; here are some of my PBs:
 + Speedcubing (3x3): [5.57][pbsingle] single, 8.72 ao5, 10.17 ao100 ([officially][wca], much worse; I should really go to more competitions)
@@ -20,6 +18,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
+- 同士少女よ、敵を撃て
 - ブラフマンの埋葬
 - もものかんづめ
 - 魔法少女ノ魔女裁判
