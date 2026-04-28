@@ -70,7 +70,8 @@ with open(csv_file, mode="r", newline="", encoding="utf-8") as file:
                         f"        {{x: {course['x']}, "
                         f"y: {course['Grade']}, "
                         f"name: '{fullCode(course)}', "
-                        f"desc: '{course['Name']}'}},",
+                        f"desc: '{course['Name']}', "
+                        f"prof: '{course['Lecturer']}'}},",
                     )
                 )
         print(indent("    ]\n},"))
