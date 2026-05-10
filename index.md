@@ -18,6 +18,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
+- 烏に単は似合わない
 - 同士少女よ、敵を撃て
 - ブラフマンの埋葬
 - もものかんづめ
@@ -25,7 +26,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - 殺されて当然と少女は言った
 - けものティータイム
 - ここで唐揚げ弁当を食べないでください
-- 狼と香辛料1～6巻
+- 狼と香辛料1～7巻
 - 薬屋のひとりごと1～16巻
 - 雨夜の月1～10巻
 - この恋を星には願わない1～5巻
