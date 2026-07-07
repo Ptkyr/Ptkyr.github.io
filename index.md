@@ -18,6 +18,8 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
+- こゝろ (夏目漱石)
+- 妙な話 (芥川龍之介)
 - 大正學生愛妻家 1巻
 - 遺書に就て（渡辺温）
 - 恋せよまやかし天使ども1巻
