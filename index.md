@@ -18,8 +18,14 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読み終わった作品：
+- 小川洋子：
+ - 博士の愛した数式
+ - ブラフマンの埋葬
+- 流言蜚語 (寺田寅彦)
 - こゝろ (夏目漱石)
-- 妙な話 (芥川龍之介)
+- 芥川龍之介：
+ - 沼地
+ - 妙な話 
 - 大正學生愛妻家 1巻
 - 遺書に就て（渡辺温）
 - 恋せよまやかし天使ども1巻
@@ -28,7 +34,6 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - 働く私と彼女の同棲
 - 烏に単は似合わない
 - 同士少女よ、敵を撃て
-- ブラフマンの埋葬
 - もものかんづめ
 - 魔法少女ノ魔女裁判
 - 殺されて当然と少女は言った
