@@ -285,3 +285,11 @@ a {
         color: $body-text-color;
     }
 }
+
+.content {
+    ul,
+    ol {
+        margin-top: 0.2rem;
+        margin-bottom: 0.2rem;
+    }
+}
