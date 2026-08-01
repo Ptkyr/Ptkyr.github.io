@@ -17,9 +17,9 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
-読み終わった作品：
+読了した作品一覧：
 - 四畳半神話大系
-- 日本三國4巻
+- 日本三國4～6巻
 - **小川洋子**：
   - 博士の愛した数式
   - ブラフマンの埋葬
