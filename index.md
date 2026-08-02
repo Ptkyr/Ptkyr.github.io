@@ -19,7 +19,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 
 読了した作品一覧：
 - 四畳半神話大系
-- 日本三國4～6巻
+- 日本三國4～7巻
 - **小川洋子**：
   - 博士の愛した数式
   - ブラフマンの埋葬
