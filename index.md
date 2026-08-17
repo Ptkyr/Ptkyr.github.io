@@ -18,6 +18,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読了した作品一覧：
+- 夏物語
 - 四畳半神話大系
 - 日本三國4～7巻
 - **小川洋子**：
