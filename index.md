@@ -19,8 +19,11 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 
 読了した作品一覧：
 - 夏物語
+- **小野不由美**：
+  - 月の影 影の海
+  - 風の海 迷宮の岸
 - 四畳半神話大系
-- 日本三國4～7巻
+- 日本三國4～7巻 (＋アニメ第一期)
 - **小川洋子**：
   - 博士の愛した数式
   - ブラフマンの埋葬
@@ -32,7 +35,6 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - 大正學生愛妻家 1巻
 - 遺書に就て（渡辺温）
 - 恋せよまやかし天使ども1巻
-- 月の影　影の海
 - ノーゲーム・ノーライフ1巻
 - 働く私と彼女の同棲
 - 烏に単は似合わない
