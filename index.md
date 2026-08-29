@@ -22,6 +22,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 - **小野不由美**：
   - 月の影 影の海
   - 風の海 迷宮の岸
+  - 東の海神 西の滄海
 - 四畳半神話大系
 - 日本三國4～7巻 (＋アニメ第一期)
 - **小川洋子**：
