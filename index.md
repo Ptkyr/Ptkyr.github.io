@@ -30,6 +30,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
   - 夜は短し歩けよ乙女
   - 四畳半神話大系
   - 四畳半タイムマシンブルース
+  - 有頂天家族
 - 日本三國4～7巻 (＋アニメ第一期)
 - **小川洋子**：
   - 博士の愛した数式
