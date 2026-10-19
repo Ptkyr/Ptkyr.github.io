@@ -19,7 +19,7 @@ These days I take better care of my hands, so I mostly read a lot ~~in order to~
 
 読了した作品一覧：
 - 人間失格
-- メダリスト1～8巻
+- メダリスト1～10巻
 - 夏物語
 - **小野不由美**：
   - 月の影 影の海
