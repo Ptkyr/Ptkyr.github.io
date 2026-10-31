@@ -18,6 +18,7 @@ My hobbies are mostly about doing things fast. I used to speedrun indie games an
 These days I take better care of my hands, so I mostly read a lot ~~in order to~~ and study Japanese. 
 
 読了した作品一覧：
+- アナザー
 - 人間失格
 - メダリスト1～10巻
 - 夏物語
